@@ -10,6 +10,15 @@
 ## Development Tools
 - [Project Board - Trello](https://trello.com/b/XTaRohYJ/sdte-final-project-management)
 
+## Installation
+
+yarn install
+
+yarn build
+
+yarn serve
+
+
 ## Frontend
 - Vue.js
 - Tailwind CSS
