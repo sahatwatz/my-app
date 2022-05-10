@@ -7,3 +7,19 @@
 ## Frontend
 - Vue.js
 - Tailwind CSS
+
+## Backend
+- Node.js
+- Mongoose
+- Express
+
+## Database
+- MongoDB
+
+## Testing
+- Vitest
+- Cypress
+
+## Deployment
+- Docker
+- JEnkins
