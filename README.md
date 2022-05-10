@@ -1,4 +1,6 @@
 # SDTE Final no.4 Sahatsawat Nantakun 62070194
+## Information
+- [Wiki](https://github.com/sahatwatz/my-app/wiki)
 ## Development Tools
 - [Project Board - Trello](https://trello.com/b/XTaRohYJ/sdte-final-project-management)
 
