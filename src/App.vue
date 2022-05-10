@@ -1,35 +1,17 @@
 <template>
     <div>
-        <nav-header/>
-        <content/>
-        <hello-world/>
-        
+        <explore />
+        <router-view />
     </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import NavHeader from './components/NavHeader.vue'
-import Content from './components/Content.vue'
-
+import Explore from './components/Explore.vue'
 export default {
-  name: 'App',
-  components: {
-    NavHeader,
-    Content,
-    HelloWorld
+    components: {
+        Explore,
 
-  }
+    }
+   
 }
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
